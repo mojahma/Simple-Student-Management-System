@@ -1,0 +1,15 @@
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\7. Mini Task\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.exe
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\7. Mini Task\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.deps.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\7. Mini Task\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.runtimeconfig.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\7. Mini Task\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\7. Mini Task\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.pdb
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\7. Mini Task\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\7. Mini Task\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\7. Mini Task\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\7. Mini Task\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\7. Mini Task\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.sourcelink.json
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\7. Mini Task\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\7. Mini Task\StudentManagementSystem\obj\Debug\net8.0\refint\StudentManagementSystem.dll
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\7. Mini Task\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.pdb
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\7. Mini Task\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.genruntimeconfig.cache
+C:\Users\carlos\Documents\my Projects\100 Days of coding\C Sharp\7. Mini Task\StudentManagementSystem\obj\Debug\net8.0\ref\StudentManagementSystem.dll
